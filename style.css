@@ -123,3 +123,58 @@ header button:hover {
   cursor: pointer;
   color: hsl(0, 0%, 8%);
 }
+
+/* Styling the body */
+main {
+
+  margin: 0px;
+  line-height: 50px;
+}
+
+#header1 {
+  font-size: 70px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  margin-bottom: 50px;
+  margin-top: 189px;
+  margin-left: 260px;
+  width: 400px;
+  line-height: 1;
+
+}
+
+#paragraph {
+  font-size: 16px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  line-height: 1.4;
+  width: 340px;
+  word-break: normal;
+  margin-bottom: 50px;
+  margin-left: 260px;
+}
+
+#button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 1px 1px;
+    margin-right: 0.5px 0.5px;
+    height: 45px;
+    width: 125px;
+    font-size: 14px;
+    margin-left: 260px;
+    margin-bottom: 115px;
+
+}
+
+.images {
+    margin-left: 260px;
+    display: flex;
+    justify-content: space-between;
+    width: 380px;
+    height: 20px;
+}
+
+.main_image {
+  margin-left: 800px;
+  margin-top: -550px;
+}
